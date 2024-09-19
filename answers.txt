@@ -9,3 +9,7 @@ Answer: [It could be applied to economics. If someone wants to present data of t
 Q3: What is the difference between merging and rebasing?
 
 Answer: [Merging is a safe option that preserves the entire history of your repository, while rebasing creates a linear history by moving your feature branch onto the tip of main]
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: [I hope I can be more proficent in Python and know how to do machine learning]
