@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: [It could be applied to economics. If someone wants to present data of the company's growth you can use a visualization of the data]
